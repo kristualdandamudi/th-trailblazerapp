@@ -1,0 +1,352 @@
+[
+    [
+        "C:\\Users\\dandas1\\trailblazerapp\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\dandas1\\trailblazerapp\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1517499136628,
+            "changeTime": 1517499136628,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\dandas1\\trailblazerapp\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\dandas1\\trailblazerapp\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1517499136628,
+            "changeTime": 1517499136628,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dandas1\\trailblazerapp\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dandas1\\trailblazerapp\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1517853233659,
+            "changeTime": 1517853233659,
+            "contentHash": "1601dfe44d32aa3d38dea7269e63e1c0ab621b3c"
+        }
+    ],
+    [
+        "C:\\Users\\dandas1\\trailblazerapp\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\dandas1\\trailblazerapp\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1517499136628,
+            "changeTime": 1517499136628,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dandas1\\trailblazerapp",
+        {
+            "sourcePath": "C:\\Users\\dandas1\\trailblazerapp",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1517502096030,
+            "changeTime": 1517502096030,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dandas1\\trailblazerapp\\force-app\\main\\default\\objects\\Waypoint__c\\Waypoint__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\dandas1\\trailblazerapp\\force-app\\main\\default\\objects\\Waypoint__c\\Waypoint__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2135,
+            "modifiedTime": 1517517645694,
+            "changeTime": 1517517645694,
+            "contentHash": "d7c407728aa38c1f3f4b768c69e14364eb253d44",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dandas1\\trailblazerapp\\force-app\\main\\default\\layouts\\Waypoint__c-Waypoint Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\dandas1\\trailblazerapp\\force-app\\main\\default\\layouts\\Waypoint__c-Waypoint Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2654,
+            "modifiedTime": 1517517645703,
+            "changeTime": 1517517645703,
+            "contentHash": "559282d979186f6eb3c3f07b16e85488229a9db6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dandas1\\trailblazerapp\\force-app\\main\\default\\flexipages\\Trailblazer_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\dandas1\\trailblazerapp\\force-app\\main\\default\\flexipages\\Trailblazer_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 385,
+            "modifiedTime": 1517517645710,
+            "changeTime": 1517517645710,
+            "contentHash": "35df5ab974ce494727013bd1a6783a898fe6c3e6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dandas1\\trailblazerapp\\force-app\\main\\default\\tabs\\Waypoint__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\dandas1\\trailblazerapp\\force-app\\main\\default\\tabs\\Waypoint__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 223,
+            "modifiedTime": 1517517645716,
+            "changeTime": 1517517645716,
+            "contentHash": "76512fe892410b632de766ebaaeaf759dce927a6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dandas1\\trailblazerapp\\force-app\\main\\default\\applications\\Trailblazer.app-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\dandas1\\trailblazerapp\\force-app\\main\\default\\applications\\Trailblazer.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 529,
+            "modifiedTime": 1517517645725,
+            "changeTime": 1517517645725,
+            "contentHash": "3771d2ebd35fb106a927d2737088cef7355c6f6c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dandas1\\trailblazerapp\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\dandas1\\trailblazerapp\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4497,
+            "modifiedTime": 1517517645732,
+            "changeTime": 1517517645732,
+            "contentHash": "32616ccdb71dfcf7b25b1492d7b1918ce23a7596",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dandas1\\trailblazerapp\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\dandas1\\trailblazerapp\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4497,
+            "modifiedTime": 1517517645740,
+            "changeTime": 1517517645740,
+            "contentHash": "32616ccdb71dfcf7b25b1492d7b1918ce23a7596",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dandas1\\trailblazerapp\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\dandas1\\trailblazerapp\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4835,
+            "modifiedTime": 1517517645750,
+            "changeTime": 1517517645750,
+            "contentHash": "cba9766e6a3e80e33f41c539400d2ff1c6bf1836",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dandas1\\trailblazerapp\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\dandas1\\trailblazerapp\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17173,
+            "modifiedTime": 1517519773203,
+            "changeTime": 1517519773203,
+            "contentHash": "2662d948729273f8611b43b80c86b8df07a130f3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dandas1\\trailblazerapp\\force-app\\main\\default\\objects\\Waypoint__c",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\dandas1\\trailblazerapp\\force-app\\main\\default\\objects\\Waypoint__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1517517645691,
+            "changeTime": 1517517645691,
+            "contentHash": "09871bdcb0514a0ddcd056c7f0077baafcc74824",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dandas1\\trailblazerapp\\force-app\\main\\default\\objects",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\dandas1\\trailblazerapp\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1517517645689,
+            "changeTime": 1517517645689,
+            "contentHash": "bcd5debf775aa93b5801fa9fe6e9c9ba5e5ae30c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dandas1\\trailblazerapp\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dandas1\\trailblazerapp\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1517853233650,
+            "changeTime": 1517853233650,
+            "contentHash": "2ffbf4866852c6ec689a8ac99703fe372124ebca"
+        }
+    ],
+    [
+        "C:\\Users\\dandas1\\trailblazerapp\\force-app\\main\\default\\flexipages",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\dandas1\\trailblazerapp\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1517517645707,
+            "changeTime": 1517517645707,
+            "contentHash": "2cdd20c918538e02fcd91663b190224e429c7627",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dandas1\\trailblazerapp\\force-app\\main\\default\\tabs",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\dandas1\\trailblazerapp\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1517517645713,
+            "changeTime": 1517517645713,
+            "contentHash": "9a458cabf768b8a58d60542aeaefcd1a682b8419",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dandas1\\trailblazerapp\\force-app\\main\\default\\applications",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\dandas1\\trailblazerapp\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1517517645721,
+            "changeTime": 1517517645721,
+            "contentHash": "05e83ad515aa79a13345db65e1dae5eff7265e2b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dandas1\\trailblazerapp\\force-app\\main\\default\\profiles",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\dandas1\\trailblazerapp\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1517517645762,
+            "changeTime": 1517517645762,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dandas1\\trailblazerapp\\force-app\\main\\default\\layouts\\Global-Global Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dandas1\\trailblazerapp\\force-app\\main\\default\\layouts\\Global-Global Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1707,
+            "modifiedTime": 1517853233656,
+            "changeTime": 1517853233656,
+            "contentHash": "c6edf9cf0932ace3179090f9586a00128d598330"
+        }
+    ],
+    [
+        "C:\\Users\\dandas1\\trailblazerapp\\force-app\\main\\default\\quickActions\\Waypoint.quickAction-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dandas1\\trailblazerapp\\force-app\\main\\default\\quickActions\\Waypoint.quickAction-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 704,
+            "modifiedTime": 1517853233664,
+            "changeTime": 1517853233664,
+            "contentHash": "5a8990a01371ab292cd423157a6c4570e7c105a0"
+        }
+    ],
+    [
+        "C:\\Users\\dandas1\\trailblazerapp\\force-app\\main\\default\\quickActions",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dandas1\\trailblazerapp\\force-app\\main\\default\\quickActions",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1517853233659,
+            "changeTime": 1517853233659,
+            "contentHash": "de8447ddb34b3d10fcb9c31f9cd0e83122ad0d73"
+        }
+    ]
+]
